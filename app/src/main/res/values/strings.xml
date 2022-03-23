@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Eye training</string>
+    <string name="main">главная</string>
+    <string name="stats">стаистика</string>
+    <string name="options">настройки</string>
+
+    <string name="evening">Вечер</string>
+    <string name="afternoon">День</string>
+    <string name="morning">Утро</string>
+
+    <string name="title_activity_bottom_example">bottom_example</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="app_text">Пальминг</string>
+    <string name="time_to_complete">Время выполнения 45 сек.</string>
+    <string name="exercise_description">Сядьте прямо, свободно, живот и диафрагму не втягивайте, не сутультесь, дышите естественно и легко, стараясь почувствовать, как поток воздуха и энергии проходит через всё тело, достигая глаз и мозга; Энергично потрите ладони одна о другую до тех пор, пока они не станут горячими; Поставьте локти на стол (при необходимости подложите под них толстую папку или стопку книг); Расслабьте плечи, не поднимайте их вверх! закройте глаза и прикройте их ладонями, которые складываются крест-накрест, сначала левую, на неё правую. Ладони не должны давить на глаза.</string>
+
+</resources>
